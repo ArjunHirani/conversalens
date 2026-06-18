@@ -1,5 +1,4 @@
 data/rag_state.pkl
-data/conversations.csv
 __pycache__/
 *.pyc
 *.pyo
